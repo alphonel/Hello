@@ -1,0 +1,3 @@
+H:/AndroidStudioProjects/Hello/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir
+H:/AndroidStudioProjects/Hello/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+H:/AndroidStudioProjects/Hello/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
